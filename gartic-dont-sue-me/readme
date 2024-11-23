@@ -1,0 +1,20 @@
+This is a simple Discord bot that mimics the functionality of Gartic, a game where players draw and guess images. 
+
+
+
+
+Commands
+!start
+Start a new Gartic session in the current channel.
+
+!join
+Join an ongoing session.
+
+!draw
+Assign a player to draw.
+
+!guess <word>
+Make a guess for the drawing.
+
+!end
+End the current session.
