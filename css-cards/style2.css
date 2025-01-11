@@ -1,0 +1,32 @@
+.box{
+    border: 1px solid lightgray;
+    border-radius: 14px;
+    margin: 50px auto;
+    width: 550px;
+    font-family: sans-serif;
+}
+
+h1{
+    padding: 20px;
+    color: rgb(63, 63, 63);
+}
+
+p.text{
+    color: gray;
+    padding-left: 20px;
+    font-weight: 250;
+}
+
+.img{
+    object-fit: cover;
+    width: 20%;
+    border-radius: 50%;
+    margin: 40px;
+}
+
+.footer{
+    border-top: 1px solid lightgrey;
+    padding-top: 20px;
+    color: #4285F4;
+    padding-left: 20px;
+}
